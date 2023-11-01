@@ -27,13 +27,9 @@ This project is an interactive game designed to engage users in a guessing game.
 + CSS
 + JavaScript
 
-## Clone this repository
-   ```
-   git clone https://github.com/your-username/guess-my-number.git
-   ```
 ---
-### Acknowledgments
-This project was inspired by @jonasschmedtmann.
+## Acknowledgments
+This project was inspired by [Jonas Schmedtmann](https://github.com/jonasschmedtmann/complete-javascript-course)
 
 
 
