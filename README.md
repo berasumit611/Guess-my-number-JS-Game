@@ -6,7 +6,8 @@ Welcome to "Guess My Number," a fun and interactive JavaScript game where you an
 
 This project is an interactive game designed to engage users in a guessing game. The player tries to guess a number between 1 and 20. If the user's guessed number matches the randomly generated number, the user wins! Otherwise, points are deducted.
 ## Preview
-![Game](/game-preview.jpg "Game")
+![Screen shot- Guess My Number](https://github.com/berasumit611/Guess-my-number-JS-Game-/assets/86337318/4f5e2e14-01ee-4ad2-9b3b-de31427005dd)
+
 ## Features
 - Random number generation for both user and computer.
 - Dynamic User Interface using DOM manipulation.
