@@ -5,7 +5,7 @@
 let secret_number = Math.trunc(Math.random() * 20) + 1; //0 to 19.9999 + 1
 
 
-let score = 20; //initially score initialize in a veriable then decrease for wrong guess
+let score = 20; //initially score initialize in a variable then decrease for wrong guess
 let high_score = 0;
 const displayMessage=function(message){
   document.querySelector('.message').textContent=message;
