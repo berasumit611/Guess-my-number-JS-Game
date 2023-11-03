@@ -124,5 +124,75 @@ h1 {
   html {
     font-size: 40%;
   }
-  
+
+  header {
+    height: 30vh;
+  }
+
+  main {
+    height: 70vh;
+    display: flex;
+    gap:7rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .left {
+    width: 80%;
+    display: flex;
+    margin-bottom: 2rem;
+  }
+
+  .right {
+    width: 80%;
+    text-align: center;
+    font-size: 1.6rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin: 0;
+  }
+
+  .number {
+    font-size: 4rem;
+    width: 10rem;
+    padding: 2rem 0rem;
+  }
+
+  .between {
+    font-size: 1.2rem;
+    right: 1rem;
+  }
+
+  .again {
+    left: 1rem;
+  }
+
+  .guess {
+    font-size: 3rem;
+    padding: 1.5rem;
+    width: 20rem;
+    height: 10rem;
+    margin-bottom: 1.6rem;
+  }
+
+  .btn {
+    font-size: 1.6rem;
+    padding: 1.5rem 2.5rem;
+  }
+
+  .message {
+    margin-bottom: 4rem;
+    font-size: 2rem;
+  }
+
+  .label-score {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+  }
+  .label-highscore {
+    font-size: 1.8rem;
+  }
 }
